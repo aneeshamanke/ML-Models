@@ -1,3 +1,2 @@
-Hi,
-I am trying out different ML models to be clear with the basic functionality and it is soley for my reference and purpose.
-If anyone wants to refer he/she can but remember it will only help in covering the basics.
+The goal is **not** to offer production-ready code, but to cement my understanding of the fundamentals and create a quick reference for future projects.  
+If you find the notebooks useful, feel free to explore—just be aware that the focus is on **conceptual clarity rather than state-of-the-art performance**.
